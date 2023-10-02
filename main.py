@@ -1,2 +1,2 @@
-print('not first vdersion')
+print('not first vderчсмваsion')
 
